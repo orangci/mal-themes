@@ -1,5 +1,2 @@
 # orxngc/mal-themes
-A collection of css stylesheets I have for various things.
-Includes:
-- My MyAnimeList list styling tweaked from Clarified by Valerio Lyndon; colorscheme is catppuccin mocha
-- My MyAnimeList site styling (coming soon)
+the animelist and mangalist themes are by valerio lyndon and are not mine. the only reason they are public is because sometimes people ask for my config
